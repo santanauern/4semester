@@ -67,8 +67,4 @@ A SportLife é uma academia e centro esportivo que oferece planos de mensalidade
 - `POST /api/inscricoes?turmaId=1&clienteId=1` – inscreve cliente em turma
 - `GET /api/relatorios/clientes-ativos` – relatório de clientes ativos
 - `GET /api/relatorios/inscricoes` – relatório de inscrições por turma
-
-## Observações
-
-- Este projeto é um ponto de partida para o estudo de caso: você pode (e deve) adaptar textos, regras de negócio, nomes de campos e telas conforme o que o professor exigir.
 - Também é possível incrementar com mais páginas HTML/JS, validações e testes automatizados.
