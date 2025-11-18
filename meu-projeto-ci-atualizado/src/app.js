@@ -5,7 +5,7 @@ const app = express();
 app.use(express.json());
 
 app.get('/saudacao', (req, res) => {
-  res.json({ mensagem: "Olá! API funcionando com CI 🚀" });
+  res.json({ mensagem: "Olá! API funcionando com CI..." });
 });
 
 app.post('/soma', (req, res) => {
