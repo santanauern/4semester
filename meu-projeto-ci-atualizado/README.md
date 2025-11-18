@@ -1,0 +1,1 @@
+Projeto com tests e CI + deploy automático.
